@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(85, 78, 78);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.watch{
+    background-color: white;
+    padding: 35px;
+    width:400px;
+}
+h3{
+    text-decoration: none;
+    padding: 5px;
+    font-size: 20px;
+}
