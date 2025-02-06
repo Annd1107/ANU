@@ -20,7 +20,7 @@ h3{
     flex-direction: row;
     justify-content: space-evenly;
 }
-button{
+.yes , .no{
     height: 100px;
     width: 150px;
 }
